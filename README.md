@@ -2,7 +2,7 @@
 
 <img align="right" src="https://dortania.github.io/docs/latest/Logos/Logo-.png" alt="Critter" width="200">
 
-* Bootloader: [OpenCore 0.6.1](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.1)
+* Bootloader: [OpenCore 0.6.2](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.2)
 * Please note that although this EFI work for my laptop (almost) perfect, it may damage your hardward (especcially because I don't use the pre-built ACPI), if you try this with out configurating into your laptop, I DO NOT have responsible for this so this should be used for consulting ONLY. You have been warned.
 
 # Screenshoot
@@ -24,21 +24,25 @@ Wi-Fi              Broadcom BCM94352HMB
 Monitor            HD 1366x768
 BIOS Verison       F.68 Rev.A
 macOS Verison      10.15.6 Catalina
-OpenCore Version   0.6.1
+OpenCore Version   0.6.2
 ```
-## What working?  
+## What is working?  
 * Battery Indicator
+* Continuity (Handoff, Sidecar (untested but should work), Markup/Sketch, Camera, Universal Clipboard, AirDrop)
 * Internal Speaker + Headphone + HDMI + HDMI Sounds
 * Ethernet + WiFi + Bluetooth
 * USB
-* Trackpad
+* Trackpad & some gestures
 * Brightness, FN Brightness
 * Sleep + Wake + Shutdown + Restart
-* Cpu Power Management
+* CPU Power Management
 * IGPU / QE/CI working good
+* iServices
+* Webcam
 
-## What don't work?  
-* iService (need to call Apple)
+## What doesn't work?  
+* Apple Watch unlock (Unreliable and rarely connects)
+* Please submit an issue if you find anything
 
 # Thanks to:
 ## **Developers of OpenCore**:
