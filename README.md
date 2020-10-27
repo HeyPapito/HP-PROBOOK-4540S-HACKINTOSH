@@ -1,4 +1,4 @@
-# Mac OS X 10.15.X FOR HP PROBOOK 4540S
+# Mac OS X 10.15.7 FOR HP PROBOOK 4540S
 
 <img align="right" src="https://dortania.github.io/docs/latest/Logos/Logo-.png" alt="Critter" width="200">
 
@@ -23,7 +23,7 @@ Ethernet           Realtek RTL8151FH-CG 10/100/1000
 Wi-Fi              Broadcom BCM94352HMB
 Monitor            HD 1366x768
 BIOS Verison       F.68 Rev.A
-macOS Verison      11.0 BigSur
+macOS Verison      10.15.6 Catalina
 OpenCore Version   0.6.1
 ```
 ## What working?  
