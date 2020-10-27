@@ -4,6 +4,8 @@
 
 * Bootloader: [OpenCore 0.6.2](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.2)
 * Please note that although this EFI works for my laptop (almost) perfect, it may damage your hardware (especially because I don't use the pre-built ACPI), if you try this on your laptop, I am not responsible so this should be used for testing purposes. You have been warned.
+* Need to generate your own serial number, UUID and MLB to prevent potential ban from Apple Services for multiple devices with same info.
+Generate your own here: https://github.com/corpnewt/GenSMBIOS
 
 # Screenshots
 ![1](./screenshoot/1.png)
