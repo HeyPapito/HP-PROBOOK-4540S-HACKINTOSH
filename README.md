@@ -66,3 +66,4 @@ For their best, extremly easy to understand [OpenCore Install Guide](https://dor
 ## Credits
 @RehabMan for all add in patch hp probook 4530s/4540s
 @chriss111 for theme
+nguyenhung9x2020 for original EFI creation and support
