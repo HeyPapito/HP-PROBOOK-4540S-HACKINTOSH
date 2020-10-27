@@ -3,9 +3,9 @@
 <img align="right" src="https://dortania.github.io/docs/latest/Logos/Logo-.png" alt="Critter" width="200">
 
 * Bootloader: [OpenCore 0.6.2](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.2)
-* Please note that although this EFI work for my laptop (almost) perfect, it may damage your hardward (especcially because I don't use the pre-built ACPI), if you try this with out configurating into your laptop, I DO NOT have responsible for this so this should be used for consulting ONLY. You have been warned.
+* Please note that although this EFI works for my laptop (almost) perfect, it may damage your hardware (especially because I don't use the pre-built ACPI), if you try this on your laptop, I am not responsible so this should be used for testing purposes. You have been warned.
 
-# Screenshoot
+# Screenshots
 ![1](./screenshoot/1.png)
 ![2](./screenshoot/2.png)
 ![3](./screenshoot/3.png)
